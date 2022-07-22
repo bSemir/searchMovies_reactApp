@@ -71,4 +71,4 @@ This section has moved here:
 ebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### The app should look like this: 
-(https://user-images.githubusercontent.com/80484175/180511487-69e424ec-2d0e-44bb-9dd8-05de0878fe20.png)
+[https://fac![app](https://user-images.githubusercontent.com/80484175/180511487-69e424ec-2d0e-44bb-9dd8-05de0878fe20.png)

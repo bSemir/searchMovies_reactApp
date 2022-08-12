@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/searchMovies_reactApp/static/css/main.334bdeb1.css",
+    "main.js": "/searchMovies_reactApp/static/js/main.d6e681b2.js",
+    "index.html": "/searchMovies_reactApp/index.html",
+    "static/media/search.svg": "/searchMovies_reactApp/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.334bdeb1.css.map": "/searchMovies_reactApp/static/css/main.334bdeb1.css.map",
+    "main.d6e681b2.js.map": "/searchMovies_reactApp/static/js/main.d6e681b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.d6e681b2.js"
+  ]
+}
